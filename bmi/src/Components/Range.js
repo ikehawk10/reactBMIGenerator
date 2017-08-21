@@ -38,4 +38,5 @@ class Range extends Component {
   }
 }
 
+
 export default Range;
